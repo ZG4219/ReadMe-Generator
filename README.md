@@ -1,13 +1,13 @@
-# ReadMe Generator
+# undefined
 
   ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? -To learn how to creat a readme generartor.
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") I built this project to enhance my coding experience.
+- What problem does it solve?- This project solves to create a readme generator. 
+- What did you learn? I learn how to apply what I learned from node.js
 
 ## Table of Contents (Optional)
 
@@ -28,8 +28,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
   
-    ![Screenshot_20221118_122451](https://user-images.githubusercontent.com/112784768/202795965-38da012e-9f6f-4725-af90-73db9c66dad4.png)
+    ![alt text](assets/images/screenshot.png)
     
+![Screenshot_20221118_122722](https://user-images.githubusercontent.com/112784768/202796568-328041f1-5cbb-418e-afb7-81935478c9c5.png)
 
 ## Credits
 
