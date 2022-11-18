@@ -4,7 +4,7 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation? -To learn how to creat a readme generartor.
+- What was your motivation? -To learn how to creat a readme generator.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") I built this project to enhance my coding experience.
 - What problem does it solve?- This project solves to create a readme generator. 
 - What did you learn? I learn how to apply what I learned from node.js
