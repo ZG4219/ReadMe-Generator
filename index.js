@@ -17,7 +17,7 @@ const questions = [{
 }, {
     type: "input",
     message: "Why did you build this project?",
-    name: "Table of Contents"
+    name: "Usage"
 
 }, {
     type: "input",
@@ -26,7 +26,7 @@ const questions = [{
 }, {
     type: "input",
     message: "What is your e-mail address?",
-    name: "E-mail"
+    name: "Username"
 
 },
 ]
